@@ -107,7 +107,8 @@ button, .button {
   background-image: url("../img/bg.png");
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 200px 0; }
+  padding: 200px 0;
+  border-bottom: 5px solid #F34949; }
 
 .resto {
   margin: 0 auto; }
